@@ -26,5 +26,3 @@ Model Readiness: The final dataset is fully numerical and standardized, making i
 processed_adult_income.csv: The cleaned and transformed dataset.
 
 Feature_Encoding_Scaling.ipynb: The complete Python implementation.
-
-Would you like me to generate a specific "Interview Prep" section to include at the bottom of your README?
